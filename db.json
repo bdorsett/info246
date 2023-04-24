@@ -3,49 +3,49 @@
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
-      "id": "1",
-      "name": "Soccer ball",
-      "description": "Item for football playing"
+      "id": "4",
+      "name": "Art Set",
+      "description": "Item for creating art"
     },
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
-      "id": "2",
-      "name": "Skateboard",
-      "description": "Item for creative playing"
+      "id": "5",
+      "name": "Guitar",
+      "description": "Item for playing music"
     },
     {
       "@context": "https://schema.org",
       "@type": "CreativeWork",
-      "id": "3",
-      "name": "Laptop",
-      "description": "Item for innovating and building"
+      "id": "6",
+      "name": "Cookbook",
+      "description": "Item for cooking and baking"
     }
   ],
   "users": [
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "id": "1",
-      "name": "user 1",
+      "id": "3",
+      "name": "user 3",
       "description": "some user comment about item",
-      "itemId": "1"
+      "itemId": "4"
     },
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "id": "2",
-      "name": "user 2",
+      "id": "4",
+      "name": "user 4",
       "description": "some user comment about item",
-      "itemId": "1"
+      "itemId": "5"
     }
   ],
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "jasonclark's API",
-    "creator": "jasonclark",
-    "about": "A collection of items or things or stuff",
-    "url": "https://www.jasonclark.info"
+    "name": "betsyDorsett's API",
+    "creator": "betsyDorsett",
+    "about": "A collection of various items",
+    "url": "https://www.betsysaur.com"
   }
 }
