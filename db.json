@@ -9,8 +9,6 @@
         "medium": "Ephemera",
         "location": "Chicago, IL",
         "organization": "Stonewall Museum",
-        "topic": "Daughters of Bilitis",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -22,8 +20,6 @@
         "medium": "Ephemera",
         "location": "Chicago, IL",
         "organization": "Stonewall Museum",
-        "topic": "Daughters of Bilitis",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -35,8 +31,6 @@
         "medium": "Ephemera",
         "location": "New York, NY",
         "organization": "Stonewall Museum",
-        "topic": "Daughters of Bilitis",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -48,8 +42,6 @@
         "medium": "Ephemera",
         "location": "New York, NY",
         "organization": "Stonewall Museum",
-        "topic": "Daughters of Bilitis",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -61,8 +53,6 @@
         "medium": "Ephemera",
         "location": "Philadelphia, PA",
         "organization": "Stonewall Museum",
-        "topic": "Daughters of Bilitis",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -74,8 +64,6 @@
         "medium": "Ephemera",
         "location": "San Francisco, CA",
         "organization": "Stonewall Museum",
-        "topic": "Daughters of Bilitis",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -87,8 +75,6 @@
         "medium": "Ephemera",
         "location": "San Francisco, CA",
         "organization": "Stonewall Museum",
-        "topic": "Daughters of Bilitis",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -100,8 +86,6 @@
         "medium": "Ephemera",
         "location": "East Orange, New Jersey",
         "organization": "Stonewall Museum",
-        "topic": "Art and Music",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -126,8 +110,6 @@
         "medium": "Oral History",
         "location": "Fort Lauderdale, FL",
         "organization": "Stonewall Museum",
-        "topic": "Art and Music",
-        "access": "digital",
         "time period": "Post-2000"
       },
       {
@@ -139,8 +121,6 @@
         "medium": "Serial Publication",
         "location": "New York, NY",
         "organization": "Stonewall Museum",
-        "topic": "Feminism",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -152,8 +132,6 @@
         "medium": "Serial Publication",
         "location": "Boston, MA",
         "organization": "Stonewall Museum",
-        "topic": "Feminism",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -178,8 +156,6 @@
         "medium": "Oral History",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "ACT UP",
-        "access": "digital",
         "time period": "post-2000"
       },
       {
@@ -204,8 +180,6 @@
         "medium": "Photograph",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -230,8 +204,6 @@
         "medium": "Serial Publication",
         "location": "New Orleans, LA",
         "organization": "LGBT Archives Project of Louisiana",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "post-2020"
       },
       {
@@ -243,8 +215,6 @@
         "medium": "Photograph",
         "location": "New Orleans, LA",
         "organization": "LGBT Archives Project of Louisiana",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -269,8 +239,6 @@
         "medium": "Photograph",
         "location": "New Orleans, LA",
         "organization": "LGBT Archives Project of Louisiana",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -282,8 +250,6 @@
         "medium": "Ephemera",
         "location": "Miami, FL",
         "organization": "Stonewall Museum",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -295,8 +261,6 @@
         "medium": "Ephemera",
         "location": "Miami, FL",
         "organization": "Stonewall Museum",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -308,8 +272,6 @@
         "medium": "Photograph",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Activism",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -321,8 +283,6 @@
         "medium": "Ephemera",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -334,8 +294,6 @@
         "medium": "Serial Publications",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Activism",
-        "access": "digital",
         "time period": "20th Century"
       },
       {
@@ -347,8 +305,6 @@
         "medium": "Ephemera",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "post-2000"
       },
       {
@@ -360,8 +316,6 @@
         "medium": "Ephemera",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "post-2000"
       },
       {
@@ -373,8 +327,6 @@
          "medium": "Photograph",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "post-2000"
       },
       {
@@ -386,8 +338,6 @@
          "medium": "Ephemera",
         "location": "San Francisco, CA",
         "organization": "GLBT Historical Society",
-        "topic": "Culture",
-        "access": "digital",
         "time period": "post-2000"
       }
     ],
