@@ -1,8 +1,8 @@
 {
     "items": [
       {
-        "@context": "https://betsysaur.com",
-        "@type": "CreativeWork",
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
         "id": "1",
         "name": "Daughters of Bilitis Chicago Chapter Newsletter, Vol. 2 No. 12 - December 1963.pdf",
         "description": "Meeting minutes and a newsletter from the Chicago chapter of the Daughters of Bilitis.",
@@ -12,8 +12,8 @@
         "time period": "20th Century"
       },
       {
-        "@context": "https://betsysaur.com",
-        "@type": "CreativeWork",
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
         "id": "2",
         "name": "Daughters of Bilitis Chicago Chapter Minutes - December 1963.pdf",
         "description": "Meeting minutes and a newsletter from the Chicago chapter of the Daughters of Bilitis.",
@@ -24,7 +24,7 @@
       },
       {
         "@context": "https://betsysaur.com",
-        "@type": "CreativeWork",
+        "@type": "LGBTQArtifact",
         "id": "3",
         "name": "D.O.B Valentine Party - 1960.pdf",
         "description": "Invitation from the New York Chapter of the Daughters of Bilitis to a Valentine Party",
@@ -34,8 +34,8 @@
         "time period": "20th Century"
       },
       {
-        "@context": "https://betsysaur.com",
-        "@type": "CreativeWork",
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
         "id": "4",
         "name": "Daughters of Bilitis New York Chapter Newsletter - September/October 1960.pdf",
         "description": "Newsletter of the New York Chapter of the Daughters of Bilitis",
@@ -45,8 +45,8 @@
         "time period": "20th Century"
       },
       {
-        "@context": "https://betsysaur.com",
-        "@type": "CreativeWork",
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
         "id": "5",
         "name": "Newsletter: Philadelphia Chapter, Daughters of Bilitis Inc., Vol. 1 No. 10 - June 1968.pdf",
         "description": "Newsletter of the Philadelphia Chapter of the Daughters of Bilitis",
@@ -56,8 +56,8 @@
         "time period": "20th Century"
       },
       {
-        "@context": "https://betsysaur.com",
-        "@type": "CreativeWork",
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
         "id": "6",
         "name": "San Francisco Chapter Newsletter, August 1965.pdf",
         "description": "Newsletter and meeting minutes of the San Francisco Chapter of the Daughters of Bilitis",
@@ -72,16 +72,16 @@
         "@context": "https://schema.org",
         "@type": "Person",
         "id": "3",
-        "name": "user 3",
-        "description": "some user comment about item",
+        "name": "Betsy Dorsett",
+        "description": "API Designer",
         "itemId": "4"
       },
       {
         "@context": "https://schema.org",
         "@type": "Person",
         "id": "4",
-        "name": "user 4",
-        "description": "some user comment about item",
+        "name": "Developer",
+        "description": "API Developer",
         "itemId": "5"
       }
     ],
@@ -90,7 +90,7 @@
       "@type": "Collection",
       "name": "betsyDorsett's API",
       "creator": "betsyDorsett",
-      "about": "A collection of various items",
+      "about": "A collection of LGBTQ historical artifacts",
       "url": "https://www.betsysaur.com"
     }
   }
