@@ -8,8 +8,10 @@
         "description": "Meeting minutes and a newsletter from the Chicago chapter of the Daughters of Bilitis.",
         "medium": "Ephemera",
         "location": "Chicago, IL",
+        "topic": "Daughters of Bilitis",
         "organization": "Stonewall Museum",
-        "time period": "20th Century"
+        "time period": "20th Century",
+        "url": "https://stonewallmuseum.canto.com/v/digitalcollections/album/OU02G?viewIndex=0&display=curatedView&column=document&id=h01a6qejdp241eecpm9oi7gj1f"
       },
       {
         "@context": "https://schema.org",
@@ -19,17 +21,20 @@
         "description": "Meeting minutes and a newsletter from the Chicago chapter of the Daughters of Bilitis.",
         "medium": "Ephemera",
         "location": "Chicago, IL",
+        "topic": "Daughters of Bilitis",
         "organization": "Stonewall Museum",
-        "time period": "20th Century"
+        "time period": "20th Century",
+        "url": "https://stonewallmuseum.canto.com/v/digitalcollections/album/OU02G?viewIndex=0&display=curatedView&column=document&id=81r8rm3dip0clb938fsnofbr6a"
       },
       {
-        "@context": "https://betsysaur.com",
+        "@context": "https://schema.org",
         "@type": "LGBTQArtifact",
         "id": "3",
         "name": "D.O.B Valentine Party - 1960.pdf",
         "description": "Invitation from the New York Chapter of the Daughters of Bilitis to a Valentine Party",
         "medium": "Ephemera",
         "location": "New York, NY",
+        "topic": "Culture",
         "organization": "Stonewall Museum",
         "time period": "20th Century"
       },
@@ -41,8 +46,10 @@
         "description": "Newsletter of the New York Chapter of the Daughters of Bilitis",
         "medium": "Ephemera",
         "location": "New York, NY",
+        "topic": "Daughters of Bilitis",
         "organization": "Stonewall Museum",
-        "time period": "20th Century"
+        "time period": "20th Century", 
+        "url": "https://stonewallmuseum.canto.com/v/digitalcollections/album/OU02G?viewIndex=0&display=curatedView&column=document&id=72okp1q67h6oj79shppacbkp6r"
       },
       {
         "@context": "https://schema.org",
@@ -52,20 +59,142 @@
         "description": "Newsletter of the Philadelphia Chapter of the Daughters of Bilitis",
         "medium": "Ephemera",
         "location": "Philadelphia, PA",
+        "topic": "Daughters of Bilitis",
         "organization": "Stonewall Museum",
-        "time period": "20th Century"
+        "time period": "20th Century",
+        "url": "https://stonewallmuseum.canto.com/v/digitalcollections/album/OU02G?viewIndex=0&display=curatedView"
       },
       {
         "@context": "https://schema.org",
         "@type": "LGBTQArtifact",
         "id": "6",
-        "name": "San Francisco Chapter Newsletter, August 1965.pdf",
-        "description": "Newsletter and meeting minutes of the San Francisco Chapter of the Daughters of Bilitis",
-        "medium": "Ephemera",
+        "name": "Bob Smith Interview Part 1",
+        "description": "Video of ACT UP Oral History Project interview with Bob Smith by Joey Plaster. August 24, 2017. ",
+        "medium": "Oral History",
         "location": "San Francisco, CA",
-        "organization": "Stonewall Museum",
-        "time period": "20th Century"
-      }
+        "topic": "ACT UP",
+        "organization": "GLBT Historical Society",
+        "time period": "post-2000",
+        "url": "https://archive.org/details/glbths-actuporalhistory-smith-bob-20170804-1-sc"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
+        "id": "7",
+        "name": "Crystal Mason Part 1 (ACT UP Oral History Project)",
+        "description": "Video of ACT UP Oral History Project interview with Crystal Mason by Joey Plaster. July 29, 2017.",
+        "medium": "Oral History",
+        "location": "San Francisco, CA",
+        "topic": "ACT UP",
+        "organization": "GLBT Historical Society",
+        "time period": "post-2000",
+        "url": "https://archive.org/details/glbths-actuporalhistory-mason-crystal-20170729-1-sc.mpeg-4"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
+        "id": "8",
+        "name": "The Blue and Gold Club",
+        "description": "Photograph by Henri Leleu of the exterior of the Blue and Gold Club in San Francisco, California, circa 1960s-1970s",
+        "medium": "Photograph",
+        "location": "San Francisco, CA",
+        "organization": "GLBT Historical Society",
+        "topic": "Culture",
+        "access": "digital",
+        "time period": "20th Century",
+        "url": "https://www.glbthistory.org/henri-leleu-bar-photographs"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
+        "id": "9",
+        "name": "Del Martin and Phyllis Lyon",
+        "description": "Photograph of Del Martin and Phyllis Lyon",
+        "medium": "Photograph",
+        "location": "San Francisco, CA",
+        "topic": "Lesbians",
+        "organization": "GLBT Historical Society",
+        "time period": "20th Century",
+        "url": "https://diva.sfsu.edu/collections/glbt/bundles/238832"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "LGBTQArtifact",
+        "id": "10",
+        "name": "Three Japanese-American Men at Tule Lake",
+        "description": "Three Japanese-American men, including Jiro Onuma's friend and lover, who were imprisoned at Tule Lake Segregation Center, circa 1942-1945.",
+        "medium": "Photograph",
+        "location": "Newell, CA",
+        "topic": "Culture",
+        "organization": "GLBT Historical Society",
+        "time period": "20th Century",
+        "url": "https://www.glbthistory.org/jiro-onuma-papers"
+      },
+      {
+      "@context": "https://schema.org",
+      "@type": "LGBTQArtifact",
+      "id": "11",
+      "name": "Ambush Magazine Volume 38 Issue 14",
+      "description": "A bi-weekly magazine celebrating LGBTQ life, music, and culture since 1982",
+      "medium": "Serial Publication",
+      "location": "New Orleans, LA",
+      "topic": "Culture",
+      "organization": "LGBT Archives Project of Louisiana",
+      "time period": "post-2020",
+      "url": "https://issuu.com/ambushpublishing/docs/ambush_magazine_volume_38_issue_14"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LGBTQArtifact",
+      "id": "12",
+      "name": "Mardi Gras, Dixie;s Bar of Music",
+      "description": "Three costumed revelers on Mardi Gras outside Dixie's Bar of Music, early 1950s. Stephen Scalia, photographer",
+      "medium": "Photograph",
+      "location": "New Orleans, LA",
+      "topic": "Culture",
+      "organization": "LGBT Archives Project of Louisiana",
+      "time period": "20th Century",
+      "url": "https://lgbtarchiveslouisiana.org/mardi-gras-and-carnival-images/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LGBTQArtifact",
+      "id": "13",
+      "name": "Krewe of Yuga",
+      "description": "Invitation to the ill-fated 1962 Krewe of Yuga ball hand-designed by artist Stewart K. Gahn, Jr.",
+      "medium": "Ephemera",
+      "location": "New Orleans, LA",
+      "topic": "Culture",
+      "organization": "LGBT Archives Project of Louisiana",
+      "time period": "20th Century",
+      "url": "https://lgbtarchiveslouisiana.org/mardi-gras-and-carnival-images/"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "LGBTQArtifact",
+      "id": "14",
+      "name": "Cafe Lafitte in Exile",
+      "description": "Café Lafitte in Exile sometime between 1953 and 1959",
+      "medium": "Photograph",
+      "location": "New Orleans, LA",
+      "topic": "Culture",
+      "organization": "LGBT Archives Project of Louisiana",
+      "time period": "20th Century",
+      "url": "https://lgbtarchiveslouisiana.org/lost-queer-bars-of-the-french-quarter/"
+    },
+    {
+       "@context": "https://schema.org",
+       "@type": "Arti",
+       "id": "15",
+       "name": "Ambush Magazine Volume 38 Issue 14",
+       "description": "A bi-weekly magazine celebrating LGBTQ life, music, and culture since 1982",
+       "medium": "Serial Publication",
+       "location": "New Orleans, LA",
+       "topic": "Culture",
+       "organization": "LGBT Archives Project of Louisiana",
+       "time period": "post-2020",
+       "url": "https://issuu.com/ambushpublishing/docs/ambush_magazine_volume_38_issue_14"
+    },
     ],
     "users": [
       {
